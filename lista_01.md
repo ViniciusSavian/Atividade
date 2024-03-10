@@ -95,7 +95,7 @@ ______
 
 Qual será a saída do código acima?
 
-A) "Olá, meu nome é João. Olá, meu nome é Maria."
+A) "Olá, meu nome é João. Olá, meu nome é Maria." -> resposta correta
 
 B) "Olá, meu nome é ."
 
