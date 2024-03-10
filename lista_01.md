@@ -23,7 +23,7 @@ print(a)
 
 Escolha a opção que responde corretamente:
 
-a) Imprime os números pares de 1 a 10. -> resposta correta
+a) Imprime os números pares de 1 a 10. -> resposta correta&larr,
 
 b) Imprime os números ímpares de 1 a 10.
 
